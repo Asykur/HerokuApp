@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HerokuApp</string>
+    <string name="description">Description :</string>
+    <string name="write_some_description">Write some description</string>
+    <string name="reports">Reports</string>
+    <string name="upload">Upload</string>
+    <string name="empty_desc">Description cannot empty</string>
+    <string name="success_upload">Upload profile success</string>
+    <string name="err_server">an error occurred when uploading data</string>
+    <string name="pick_image_from">Pick Image From</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+</resources>
